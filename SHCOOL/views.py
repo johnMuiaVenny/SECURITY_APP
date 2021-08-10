@@ -34,7 +34,6 @@ def Search(request):
     else: 
         return redirect('/SHCOOL') 
 
-
 #pppppppppppppppppppppp
 
 class OverListView(generic.ListView):
